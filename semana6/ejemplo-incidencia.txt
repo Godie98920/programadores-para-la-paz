@@ -1,0 +1,7 @@
+
+{
+      "mensaje": "Incidencia registrada",
+      "tipo": "Inundacion",
+        "descripcion": "inundacion en el sector del parque y esta inundacion lleva 5 dias."
+}
+

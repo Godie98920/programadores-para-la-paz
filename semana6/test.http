@@ -1,0 +1,18 @@
+POST https://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Maria",
+    "mensaje": "Hola comunidad"
+    }
+
+
+### otra incidencia
+
+POST https://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Inundacion"
+    "descripcion": "Inundacion en el sector del parque y esta inundacion lleva 5 días."
+    }

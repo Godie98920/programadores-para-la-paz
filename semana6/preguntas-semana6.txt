@@ -1,0 +1,8 @@
+¿Qué es JSON?
+Respuesta: B. Un formato de intercambio de datos usado entre aplicaciones.
+¿Qué permite express.json() en una aplicación Express?
+Respuesta:B. Leer datos enviados en formato JSON en una petición
+¿Dónde se encuentran los datos enviados en una petición POST cuando usamos Express?
+Respuesta: B. req.body
+¿Cuál de las siguientes opciones representa correctamente un objeto JSON?
+Respuesta:C. { "nombre": "Juan" }
