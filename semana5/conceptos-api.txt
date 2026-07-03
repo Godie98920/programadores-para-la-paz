@@ -1,0 +1,4 @@
+Que hace esta ruta?
+Permite comunicarse con un servidor para solicitar o ejecutar una acción.
+Para que podria servir una aplicación comunitaria?
+Para interactuar y compartir información veridica, manejar información de manera conjunta.
