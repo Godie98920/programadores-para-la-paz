@@ -1,4 +1,5 @@
 POST https://silver-adventure-96695xp6w4gqcqr4-3000.app.github.dev/reporte
-Content-type: application/json
+Content-Type: aplicación/json
 
-("mensaje": "Reporte de prueba")
+
+ {"mensaje": "Reporte de prueba"}

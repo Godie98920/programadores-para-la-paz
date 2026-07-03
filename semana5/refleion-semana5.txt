@@ -1,0 +1,2 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+Respuesta: Las APIs permiten que diferentes plataformas (aplicaciones móviles, bases de datos, redes sociales) se comuniquen entre sí. En el contexto comunitario, actúan como un puente que automatiza el intercambio de datos para centralizar reportes, generar mapas de riesgo y coordinar respuestas rápidas ante emergencias

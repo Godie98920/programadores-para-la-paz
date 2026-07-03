@@ -1,3 +1,11 @@
-http://localhost:3000: Es funcional 
-http://localhost:3000/saludo: Me Saluda, funcional
-http://localhost:3000/mensaje/juan: Hola Juan
+http:// localhost:3000 : Es funcional
+http:// localhost:3000/saludo: Saluda y es funcional 
+http:// localhost:3000/mensaje/juan: Hola Juan
+
+
+{
+    
+"estado": Reporte recibido".
+"mensaje": "Reporte de prueba"
+
+}
