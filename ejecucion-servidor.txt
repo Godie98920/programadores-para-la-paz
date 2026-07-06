@@ -1,0 +1,15 @@
+¿Qué ocurre cuando ejecutas node server.js?
+Al ejecutar node server.js, el servidor se inicia y queda listo para recibir solicitudes de los usuarios.
+2. ¿Qué mensaje aparece en la terminal?
+En la terminal aparece un mensaje indicando que el servidor se inició correctamente y está escuchando en un puerto.
+3. ¿Qué sucede cuando visitas la ruta /estado?
+Al visitar la ruta /estado, el servidor responde con información sobre su estado de funcionamiento en formato JSON.
+
+Respuesta esperada; 
+
+{
+      "estado": "Servidor funcionando",
+        "servicio": "API comunitaria"
+}
+}
+
