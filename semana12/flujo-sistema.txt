@@ -1,0 +1,5 @@
+Un ciudadano crea una campaña de veeduria
+La causa queda registrada en la base de datos de veedurias
+Otros ciudadanos pueden apoyar la causa.
+El sistema cuenta los apoyos.
+El sistema genera un documento PDF con la petición.
