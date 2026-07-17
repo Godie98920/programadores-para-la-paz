@@ -1,0 +1,3 @@
+Como ciudadano quiero registrar un conjunto de actividades relacaionada con el el cumplimiento del proyecto.
+Como coordinador quiero recbir de ante mano toda la información pertinente sobre el manejo ambiental de la empresa por via telegram.
+Como miembro del equipo de veeduria ciudadana quiero recibir informes detallados aceca de las actividades realizadas.

@@ -1,0 +1,6 @@
+Evento: nuevo reporte ergistrado.
+
+Acción: enviar mensaje texto de las acciones a llevar acabo por Telegram.
+
+Mensaje: “Nuevo reporte recibido. Revisar el plan acción en el marco del proyecto.
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones, teléfonos, claves o datos sensibles.

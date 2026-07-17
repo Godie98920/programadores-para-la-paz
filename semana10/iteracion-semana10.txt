@@ -1,0 +1,13 @@
+¿Qué 2 tareas del backlog harías primero?
+Respuesta:
+Historia de usuario 1 (Prioridad: Alta): "Como usuario, quiero registrarme e iniciar sesión con mi correo electrónico para poder guardar mis datos y realizar pedidos".
+Historia de usuario 2 (Prioridad: Alta): "Como usuario, quiero buscar restaurantes por nombre para encontrar lo que deseo comer".
+¿Por qué son las más importantes?
+ Es fundamental. Sin un sistema de registro, los usuarios no pueden usar la app ni generar ingresos y  Es la funcionalidad principal y la razón por la que el usuario descargó la aplicación.
+ ¿Qué significa para ti que una tarea esté “terminada”?
+ Que se haya cumplido con el objetivo o con las actividades que busca el plan.
+
+ Escribe una definición simple de terminado con al menos 3 criterios. Por ejemplo:
+Funciona.
+Fue probada.
+Quedó registrada en Git.
