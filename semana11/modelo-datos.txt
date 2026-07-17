@@ -1,0 +1,21 @@
+Entidad: Causa
+
+Campos principales:
+- id_ 01
+- titulo: Plan de actividades para realización del proyecto
+- descripcion: Se enumera  y se describe detalladamente el modelo de las actividades.
+- fecha; 17 de julio 2026
+
+Propósito:
+Propener las actividades a realizar en el marco del proyecto
+
+Entidad: Apoyo
+
+Campos principales:
+- id_ 02
+- causa_id:Registrar el apoyo de las actividades a realizar em el proyecto
+- usuario: Sociedad local
+- fecha:18 de julio de 2026
+
+Propósito:
+Registrar el apoyo a las actividades planeadas en el marco del proyecto
